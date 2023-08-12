@@ -1,3 +1,54 @@
-h1 {
-  text-transform: uppercase;
-}
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ }
+ 
+ .header {
+    color: SeaGreen;
+    text-align:center;
+    background-color: aliceblue;
+    padding: 10px;
+    margin: auto; 
+  }
+   
+
+  body {
+    background-color: rgb(205, 193, 216);
+
+  }
+
+ .aboutme {
+    text-align:center;
+    width: 75%;
+    background-color: pink;
+    padding: 10px;
+    margin: 10px auto;
+    
+    
+  }
+
+  .goals {
+    text-align: center;
+    background-color: rgb(172, 244, 220);
+    padding: 10px;
+    margin: 10px auto;
+    width: 60%;
+
+ }
+
+ .goals ul {
+    text-align: center;
+    padding: 35px;
+ }
+
+  .hobbies {
+    text-align: center;
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px auto;
+
+  }
+
+  ul {
+    list-style-type: square;
+  }
